@@ -1,0 +1,30 @@
+img {
+    width: 100px;
+    
+   
+}
+
+h1 {
+    text-align: center;
+}
+
+
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: orange;
+}
+
+#form {
+    text-align: center;
+}
+#pic {
+    text-align: center;
+    background-color: white;
+
+}
+
+#textArea{
+    width: 200px;
+    height: 100px;
+}
